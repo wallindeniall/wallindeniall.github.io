@@ -6,6 +6,7 @@ I am a student at The University of Queensland studying a dual degree in Mechatr
 ![Image of fast.ai logo](images/logo.png)
 
 Thankyou to [fast.ai](https://www.fast.ai) for providing this free open source online blog.
+You can setup your own [here](https://www.fast.ai/posts/2020-01-16-fast_template.html)
 
 I was inspired by my course coordinator [Brian Lovell's](https://lovellbrian.github.io/) awesome blog.
 
