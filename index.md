@@ -2,8 +2,8 @@
 
 I am a student at The University of Queensland studying a dual degree in Mechatronics and Computer Science. I've created this blog as part of an 'Image Processing and Computer Vision course' to docuement my journey.
 
-![Image of fast.ai logo](images/logo.png)
 ![Profile Picture Placeholder](images/basic_pfp.jpg)
+![Image of fast.ai logo](images/logo.png)
 
 [Brian Lovell](https://lovellbrian.github.io/) is an awesome course coordinator and inspired me with his awesome blog.
 
