@@ -1,6 +1,7 @@
 ## Welcome to Niall's Big Beautiful Blog
 
 I am a student at The University of Queensland studying a dual degree in Mechatronics and Computer Science. I've created this blog as part of an 'Image Processing and Computer Vision course' to document my journey.
+
 ![Profile Picture Placeholder](images/basic_pfp.jpg)
 ![Image of fast.ai logo](images/logo.png)
 
